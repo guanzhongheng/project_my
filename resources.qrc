@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/">
+        <file>logo.png</file>
+        <file>locale/moore_en.qm</file>
+        <file>locale/moore_zh_CN.qm</file>
+    </qresource>
+</RCC>
